@@ -1,0 +1,4 @@
+scp -r dashboard/dist/* vagrant@149.44.171.177:/home/vagrant/calamari/webapp/content/dashboard
+scp -r admin/dist/* vagrant@149.44.171.177:/home/vagrant/calamari/webapp/content/admin
+scp -r login/dist/* vagrant@149.44.171.177:/home/vagrant/calamari/webapp/content/login
+scp -r manage/dist/* vagrant@149.44.171.177:/home/vagrant/calamari/webapp/content/manage
